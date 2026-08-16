@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #ffcb05;
+  --color-secondary: #3d7dca;
+  --color-poke-red: #ff0000;
+}
+
+/* ---ONLY FOR DEVELOPMENT CSS DEBUG PURPOSES  */
+/* .see-dotted {
+  @apply border-2 border-dotted border-red-500;
+}
+.see-4-dotted {
+  @apply border-4 border-dotted border-red-500;
+} */
+
